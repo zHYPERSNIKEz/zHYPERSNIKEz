@@ -4,19 +4,21 @@
 
 ###
 
-<h1 align="left">Bem vindo!<br>Me chamo Robson, sou estudante de ADS.</h1>
+<h1 align="left">Bem-vindo! <br>Meu nome é Robson e sou estudante de Análise e Desenvolvimento de Sistemas.</h1>
 
 ###
 
-<img align="left" height="149" src="https://i.pinimg.com/originals/45/91/cb/4591cb6b3c55d6dc7e299112864e2b47.gif"  />
+<h2 align="left">Atualmente sou desenvolvedor front-end, mas estou focado em me tornar Fullstack.</h2>
 
 ###
 
-<h2 align="left">Atualmente sou desenvolvedor front-end, mas estou no foco de me torna Fullstack.</h2>
+<br clear="both">
+
+<img align="right" height="146" src="https://i.pinimg.com/originals/45/91/cb/4591cb6b3c55d6dc7e299112864e2b47.gif"  />
 
 ###
 
-<h3 align="left">Aqui algumas tecnologias que uso e tenho conhecimento</h3>
+<h3 align="left">Aqui estão algumas tecnologias que utilizo e nas quais tenho conhecimento.</h3>
 
 ###
 
